@@ -13,6 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Gelombang](ebook/Gelombang.pdf) - Dewi Lestari (2014)
 7. [Cantik itu Luka](ebook/Cantik itu Luka.pdf) - Eka Kurniawan (2002)
 8. [Bumi Manusia](ebook/Bumi Manusia.pdf) - Pramoedya Ananta Toer (1980)
+9. [Aroma Karsa](ebook/Aroma Karsa.pdf) - Dewi Lestari (2018)
 
 
 
