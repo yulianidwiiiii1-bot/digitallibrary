@@ -9,6 +9,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Petir](ebook/Petir.pdf) - Dewi Lestari (2002)
 3. [Partikel](ebook/Partikel.pdf) - Dewi Lestari (2012)
 4. [Laut Bercerita](ebook/Laut Bercerita.pdf) - Leila S. Chudori (2015)
+5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
+
 
 
    
