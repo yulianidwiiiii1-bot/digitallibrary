@@ -11,6 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Laut Bercerita](ebook/Laut Bercerita.pdf) - Leila S. Chudori (2015)
 5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
 6. [Gelombang](ebook/Gelombang.pdf) - Dewi Lestari (2014)
+7. [Cantik itu Luka](ebook/Cantik itu Luka.pdf) - Eka Kurniawan (2002)
 
 
    
