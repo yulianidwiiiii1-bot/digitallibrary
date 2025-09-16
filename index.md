@@ -17,9 +17,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Yuliani Dwi Pamungkas 112 Beyond the Bookshelf](ebook/Yuliani Dwi Pamungkas 112 Beyond the Bookshelf.pdf) - Yuliani (2025)
 
 
-[halaman1.html](ebook/halaman1.html) 
-[webti](ebook/webti.html)
    
 ---
+<a href="webti/halaman1.html">Halaman 1</a>|
+
 
 *Powered by GitHub pages*
