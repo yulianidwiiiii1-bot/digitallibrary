@@ -28,4 +28,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 <a href="WEB TI/halaman7.html">Halaman 7</a>
 
 
+<a href="index">Halaman 7</a>
+
 *Powered by GitHub pages*
